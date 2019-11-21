@@ -15,11 +15,11 @@ My current research endeavors are quite diverse and include the following key fo
 
 Below are respositorys for the various genomic resources I have assembled from my various works:
 
-**Transcriptomes**
+**Transcriptome Annotations**
 **_Malus_ x _domestica_** 
-['Honeycrisp' Transcriptome]() - coming soon.
+['Honeycrisp']() - coming soon.
 
-['Gala' Transcriptome]() - effects of GA application on flowering **Published** [Zhang et al. 2019](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6090-6)
+['Gala']() - effects of GA application on flowering **Published** [Zhang et al. 2019](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6090-6)
 
 ['Anna']() - coming soon.
 
