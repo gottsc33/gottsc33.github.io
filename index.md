@@ -17,18 +17,27 @@ Below are respositorys for the various genomic resources I have assembled from m
 
 **Transcriptomes**
 **_Malus_ x _domestica_** 
-['Honeycrisp' Transcriptome]() - floral initiation and fruit loads effect on flowering
+['Honeycrisp' Transcriptome]() - coming soon.
+
 ['Gala' Transcriptome]() - effects of GA application on flowering **Published** [Zhang et al. 2019](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6090-6)
-['Anna']() - floral initiation
-['Koningsuur']() - floral initiation
-['Marin Onfroy']() - floral initiation
-['Shinibalt']() - floral initiation
+
+['Anna']() - coming soon.
+
+['Koningsuur']() - coming soon.
+
+['Marin Onfroy']() - coming soon.
+
+['Shinibalt']() - coming soon.
 
 **_Malus_ species**
-[_Malus fusca_]() - gene expression atlas
-[_Malus angustifolia_]() - floral initiation
-[_Malus orthocrap_]() - floral initiation
-[_Malus sieversii_]() - floral initiation
-[_Malus sylvestris_]() - floral initiation
+[_Malus fusca_]() - coming soon.
+
+[_Malus angustifolia_]() - coming soon.
+
+[_Malus orthocrap_]() - coming soon.
+
+[_Malus sieversii_]() - coming soon.
+
+[_Malus sylvestris_]() - coming soon.
 
 
