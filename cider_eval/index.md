@@ -1,3 +1,5 @@
+## Evaluation of Red-Fleshed and Cider Apples for Hard Cider Production
+
 ![image](https://github.com/gottsc33/gottsc33.github.io/blob/master/photos/GLCAC.JPG)
 
 Separate from my flowering-related research, I also established a research program focused on cultivar evaluation for hard cider production in Michigan. Here, I have successfully secured funding for the establishment of the Great Lakes Cider Apple Collection. This collection serves as a large-scale replicated variety trial, in which more than 60 cider apple cultivars are being evaluated across five different locations, encompassing most of Michigan’s agricultural regions. My cider-related research has also produced a multitude of extension-related materials including a published bulletin and variety trial, an [extension resource website](https://ciderapples.msu.edu/), and a cider apple trait database.
@@ -17,3 +19,5 @@ Press:
 [Mertz, Leslie. “New research aims to learn more about hard cider apples.” Good Fruit Grower 2017;68(3): 38-40.](https://www.goodfruit.com/hard-cider-secrets/)
 
 [Mertz, Leslie. “Rosé Cider anyone?.” Good Fruit Grower 2017;68(3): 41-43.](https://www.goodfruit.com/rose-cider-anyone/)
+
+[back](../index.md)
