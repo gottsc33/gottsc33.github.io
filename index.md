@@ -6,9 +6,9 @@ To view my [Curriculum vitae](https://github.com/gottsc33/gottsc33.github.io/blo
 
 Research Areas:
 
-1.  [Genetic mechanism for floral initiation in apple]()
+1.  [Genetic mechanism for floral initiation in apple](https://github.com/gottsc33/gottsc33.github.io/blob/master/floral_initiation/index.md)
 
-2.  [Effect of fruit load on floral initiation (biennial bearing)]()
+2.  [Effect of fruit load on floral initiation (biennial bearing)](https://github.com/gottsc33/gottsc33.github.io/blob/master/biennial_bearing/index.md)
 
 3.  [Regulation of flowering through plant growth regulator application]()
 
