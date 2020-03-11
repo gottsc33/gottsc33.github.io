@@ -10,7 +10,7 @@ Research Areas:
 
 2.  [Effect of fruit load on floral initiation (biennial bearing)](https://github.com/gottsc33/gottsc33.github.io/blob/master/biennial_bearing/index.md)
 
-3.  [Regulation of flowering through plant growth regulator application]()
+3.  [Regulation of flowering through plant growth regulator application](https://github.com/gottsc33/gottsc33.github.io/blob/master/pgrs/index.md)
 
 4.  [Marker-assisted selection of new red-juice and cider cultivars]()
 
