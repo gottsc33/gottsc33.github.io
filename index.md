@@ -14,6 +14,6 @@ Research Areas:
 
 4.  [Marker-assisted selection of new red-juice and cider cultivars]()
 
-5.  [Evaluation of existing apple cultivars: red-fleshed/juice and cider]()
+5.  [Evaluation of existing apple cultivars: red-fleshed/juice and cider](https://github.com/gottsc33/gottsc33.github.io/blob/master/cider_eval/index.md)
 
 6.  [Genetic diversity of _Malus_ species, hybrids, and cultivars]()
