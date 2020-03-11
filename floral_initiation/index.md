@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Floral Initiation in Apple
 
 ![image](https://github.com/gottsc33/gottsc33.github.io/blob/master/photos/floral_initiation_diagram.png)
@@ -14,5 +10,7 @@ Gottschalk, Chris, Songwen Zhang, Phil Schwallier, Sean Rogers, M. John Bukovac 
 
 Gottschalk, Chris, Yinpeng Xie, Miguel Flores, Sean Rogers, Qingmei Guan, and Steve van Nocker. Gene expression atlas of development in a wild apple species. (in prep)
 
-[back](./)
 [Zhang, Songwen, Chris Gottschalk, and Steve van Nocker. Genetic mechanisms in the repression of flowering by gibberellins in apple (Malus x domestica Borkh.). BMC Genomics 2019;20:747.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6090-6)
+
+
+[back](./)
