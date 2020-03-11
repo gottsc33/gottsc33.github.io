@@ -13,4 +13,4 @@ Gottschalk, Chris, Yinpeng Xie, Miguel Flores, Sean Rogers, Qingmei Guan, and St
 [Zhang, Songwen, Chris Gottschalk, and Steve van Nocker. Genetic mechanisms in the repression of flowering by gibberellins in apple (Malus x domestica Borkh.). BMC Genomics 2019;20:747.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6090-6)
 
 
-[back](./)
+[back](../index.md)
