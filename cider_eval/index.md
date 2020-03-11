@@ -1,4 +1,4 @@
-![image](photos/GLCAC.JPG)
+![image](https://github.com/gottsc33/gottsc33.github.io/blob/master/photos/GLCAC.JPG)
 
 Separate from my flowering-related research, I also established a research program focused on cultivar evaluation for hard cider production in Michigan. Here, I have successfully secured funding for the establishment of the Great Lakes Cider Apple Collection. This collection serves as a large-scale replicated variety trial, in which more than 60 cider apple cultivars are being evaluated across five different locations, encompassing most of Michigan’s agricultural regions. My cider-related research has also produced a multitude of extension-related materials including a published bulletin and variety trial, an [extension resource website](https://ciderapples.msu.edu/), and a cider apple trait database.
 
