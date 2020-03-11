@@ -1,43 +1,19 @@
-## Chris Gottschalk's Research Page
+## Chris Gottschalk's Research Webpage
 
-I am a fifth year PhD candidate in [Steve van Nocker's developmental genetics lab](https://www.canr.msu.edu/people/dr_steve_van_nocker) in the Department of Horticulture at Michigan State University. My disseration is focused on understanding the molecular mechanisms that underlie flowering in apple trees and how fruit load intersects with this pathway. My interest in apples began during my undergraduate degree, BSc Plant Biology, at Michigan State when I began working with Steve van Nocker on a undergraduate thesis. During this time I was introduced to the vast genetic diversity in apples and how this drives the extreme phenotypic diversity that can be observed. Ultimately, this lead be back to MSU to continue with my graduate education.
+I am a fifth year PhD candidate in [Steve van Nocker's developmental genetics lab](https://www.canr.msu.edu/people/dr_steve_van_nocker) in the [Department of Horticulture at Michigan State University](https://www.canr.msu.edu/hrt/). My dissertation research is primarily focused on deciphering the molecular mechanisms that control flowering traits in apple. My dissertation’s pinnacle project is the thorough assembly and characterization of a high-resolution transcriptome of the shoot apical meristem, during floral initiation and development in the high-value cultivar ‘Honeycrisp’. This project also is investigating how fruit load interacts with the flowering pathway in regards to expanding our understanding of the genetic mechanisms underlying biennial bearing tendency. Complementary to that project, I assembled a transcriptome that documented the response to exogenous Gibberellin application (a repressor of flowering) in the apex of the annual-bearing cultivar ‘Gala’ during the period of floral initiation. Both projects implicated a central role that a homolog of the gene TERMINAL FLOWER 1 has in repressing flowering. All of my flowering research has led me to participate in an exciting collaborative study documenting the anatomical and molecular basis of spring bloom times in apple and its wild relatives.
 
 To view my [Curriculum vitae](https://github.com/gottsc33/gottsc33.github.io/blob/master/professional_docs/Christopher_Charles_Gottschalk_CV.pdf)
 
-My current research endeavors are quite diverse and include the following key focus areas:
+Research Areas:
 
--Genetic mechanism for floral initiation in apple
--Effect of fruit load on floral initiation (biennial bearing)
--Regulation of flowering through plant growth regulator application
--Marker-assisted selection of new red-juice and cider cultivars
--Evaluation of existing apple cultivars: red-fleshed/juice and cider
--Genetic diversity of _Malus_ species, hybrids, and cultivars
+1.[Genetic mechanism for floral initiation in apple]()
 
-Below are respositorys for the various genomic resources I have assembled from my various works:
+2.[Effect of fruit load on floral initiation (biennial bearing)]()
 
-**Transcriptome Annotations**
-**_Malus_ x _domestica_** 
-['Honeycrisp']() - coming soon.
+3.[Regulation of flowering through plant growth regulator application]()
 
-['Gala']() - effects of GA application on flowering **Published** [Zhang et al. 2019](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6090-6)
+4.[Marker-assisted selection of new red-juice and cider cultivars]()
 
-['Anna']() - coming soon.
+5.[Evaluation of existing apple cultivars: red-fleshed/juice and cider]()
 
-['Koningsuur']() - coming soon.
-
-['Marin Onfroy']() - coming soon.
-
-['Shinibalt']() - coming soon.
-
-**_Malus_ species**
-[_Malus fusca_]() - coming soon.
-
-[_Malus angustifolia_]() - coming soon.
-
-[_Malus orthocrap_]() - coming soon.
-
-[_Malus sieversii_]() - coming soon.
-
-[_Malus sylvestris_]() - coming soon.
-
-
+6.[Genetic diversity of _Malus_ species, hybrids, and cultivars]()
