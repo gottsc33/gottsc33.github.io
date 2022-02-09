@@ -11,15 +11,23 @@ I joined the USDA ARS in January of 2021 to create a new pome fruit genetics lab
 ## [Curriculum vitae]()
 
 ### Press
-  [Rosé cider anyone? - Good Fruit Grower](https://www.goodfruit.com/rose-cider-anyone/)
-  [New research aims to learn more about hard cider apples - Good Fruit Grower](https://www.goodfruit.com/hard-cider-secrets/)
-  [GLEXPO Day 3: Michigan testing hard cider varieties, red-fleshed apples - Good Fruit Grower](https://www.goodfruit.com/glexpo-day-3-michigan-testing-hard-cider-varieties-red-fleshed-apples/)
-  [A quest for Great Lakes cider apples - Good Fruit Grower](https://www.goodfruit.com/a-quest-for-great-lakes-cider-apples/)
-  [Testing cider cultivars - Fruit Grower News](https://fruitgrowersnews.com/article/testing-cider-cultivars/)
-  [New Pear People - Good Fruit Grower](https://www.goodfruit.com/new-pear-people/)
+ 1. [Rosé cider anyone? - Good Fruit Grower](https://www.goodfruit.com/rose-cider-anyone/)
+ 2. [New research aims to learn more about hard cider apples - Good Fruit Grower](https://www.goodfruit.com/hard-cider-secrets/)
+ 3. [GLEXPO Day 3: Michigan testing hard cider varieties, red-fleshed apples - Good Fruit Grower](https://www.goodfruit.com/glexpo-day-3-michigan-testing-hard-cider-varieties-red-fleshed-apples/)
+ 4. [A quest for Great Lakes cider apples - Good Fruit Grower](https://www.goodfruit.com/a-quest-for-great-lakes-cider-apples/)
+ 5. [Testing cider cultivars - Fruit Grower News](https://fruitgrowersnews.com/article/testing-cider-cultivars/)
+ 6. [New Pear People - Good Fruit Grower](https://www.goodfruit.com/new-pear-people/)
 
-# Technical Support
+# Technicians
 
 Laboratory and Greenhouse: Dan Bullock, M.Sc.
 
 Field and Greenhouse: Doug Raines, M.Sc.
+
+# Postdoctoral Researchers
+
+Recruiting in mid 2022!
+
+# Graduate and Undergraduate Researchers
+
+Recruiting soon!
