@@ -1,5 +1,6 @@
-<img src="https://github.com/gottsc33/gottsc33.github.io/blob/master/photos/pears.gif"> 
 # Welcome to the USDA ARS Pear Scion Breeding Program
+
+<img src="https://github.com/gottsc33/gottsc33.github.io/blob/master/photos/pears.gif"> 
 
 ## Current Aims
   1. Maintain and develop new resistance to [Fire Bight](https://en.wikipedia.org/wiki/Fire_blight) and [Pear Psylla](https://en.wikipedia.org/wiki/Psylla_pyri)
