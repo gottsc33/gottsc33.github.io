@@ -11,6 +11,7 @@
 ## Releases
 ### Bell
 [Notice of Release](https://github.com/gottsc33/gottsc33.github.io/blob/master/pear_breeding/Releases/Bell/Notice%20of%20Release%20of%20Pear%20Tree%20'Bell'.pdf)
+
 [Availability](https://www.acnursery.com/fruit-trees/pear-trees/456/bell)
 
 ## [Previous USDA ARS Releases](https://www.ars.usda.gov/ARSUserFiles/382/USDA%20Pear%20Cultivars%20-%20BARC%20and%20AFRS.pdf)
@@ -19,6 +20,7 @@
 ### Dawn
 ### Gem
 [USDA Release Article](https://www.ars.usda.gov/news-events/news/research-news/2015/a-new-gem-of-a-pear-released-by-ars-cooperators/)
+
 [Cultivar Information](https://journals.ashs.org/hortsci/view/journals/hortsci/49/3/article-p361.xml)
 ### Moonglow
 ### Magness
