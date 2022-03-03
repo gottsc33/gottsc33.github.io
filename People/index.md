@@ -2,7 +2,7 @@
 
 # Group Leader
 
-<img src="https://github.com/gottsc33/gottsc33.github.io/blob/master/photos/IMG_0284.JPG" width="250" height="270">
+<img src="https://github.com/gottsc33/gottsc33.github.io/blob/master/photos/IMG_0284.JPG" width="250" height="167">
 
 ## Christopher (Chris) Gottschalk (he/him/his)
 
