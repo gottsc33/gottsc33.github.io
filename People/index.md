@@ -8,7 +8,7 @@ I joined the USDA ARS in January of 2021 to create a new pome fruit genetics lab
 
 ## [ResearchGate Profile](https://www.researchgate.net/profile/Chris-Gottschalk-2)
 
-## [Curriculum vitae]()
+## [Curriculum vitae](https://github.com/gottsc33/gottsc33.github.io/blob/master/professional_docs/Gottschalk_CV_3page.pdf)
 
 ### Press
  1. [Rosé cider anyone? - Good Fruit Grower](https://www.goodfruit.com/rose-cider-anyone/)
@@ -20,9 +20,7 @@ I joined the USDA ARS in January of 2021 to create a new pome fruit genetics lab
 
 # Technicians
 
-Laboratory and Greenhouse: Dan Bullock, M.Sc.
-
-Field and Greenhouse: Doug Raines, M.Sc.
+Field and Greenhouse: [Doug Raines](https://www.ars.usda.gov/people-locations/person?person-id=46351)
 
 # Postdoctoral Researchers
 
